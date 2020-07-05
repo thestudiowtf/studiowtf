@@ -1,0 +1,7 @@
+31/03/2018
+- h1 color update
+- Footer theme options escaped
+- Added heder text color, changes the logo and menu colors
+- Fixed ajax page load
+- Added page transition animation
+- returned the 3 col layout
